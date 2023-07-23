@@ -1,2 +1,2 @@
 # Demo-git
-This repo is created for learning the Git
+This repo is created for learning the Git version control.
