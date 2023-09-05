@@ -10,5 +10,6 @@ int main()
     b = 15;
     c = a + b;
     cout << "Addition of a and b is : " << c << endl;
+    //  Demo change added to check the git rebase.
     return 0;
 }
